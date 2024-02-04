@@ -1,5 +1,7 @@
 # Supplementary Material for Lectures 2 & 3
 
+**Note**: The material of all cuda-mode lectures (including 2 & 3) has been consolidated into a new [cuda-mode/lectures](https://github.com/cuda-mode/lectures) mono-repo. To create issues or pull requests please use our [new repository](https://github.com/cuda-mode/lectures).
+
 ## Lecture 2
 
 - Recap Ch. 1-3 from the PMPP book
