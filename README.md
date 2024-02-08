@@ -1,6 +1,6 @@
-# Supplementary Material for Lectures 2 & 3
+**Note**: **Don't use this repo! It has been replaced.** The material of all cuda-mode lectures (including 2 & 3) has been consolidated into a new [cuda-mode/lectures](https://github.com/cuda-mode/lectures) repo -- please use that instead of this one. The repo you're now looking at is out of date and only here for historical reasons.
 
-**Note**: The material of all cuda-mode lectures (including 2 & 3) has been consolidated into a new [cuda-mode/lectures](https://github.com/cuda-mode/lectures) mono-repo. To create issues or pull requests please use our [new repository](https://github.com/cuda-mode/lectures).
+# Supplementary Material for Lectures 2 & 3
 
 ## Lecture 2
 
