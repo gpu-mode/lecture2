@@ -1,6 +1,6 @@
 **Note**: **Don't use this repo! It has been replaced.** The material of all cuda-mode lectures (including 2 & 3) has been consolidated into a new [cuda-mode/lectures](https://github.com/cuda-mode/lectures) repo -- please use that instead of this one. The repo you're now looking at is out of date and only here for historical reasons.
 
-# Supplementary Material for Lectures 2 & 3
+# Obsolete Material for Lectures 2 & 3
 
 ## Lecture 2
 
